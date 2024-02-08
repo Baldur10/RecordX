@@ -1,10 +1,16 @@
-# RecordRTC.js | [Live Demo](https://www.webrtc-experiment.com/RecordRTC/)
+# RecordX.js
+<!-- [Live Demo](https://www.webrtc-experiment.com/RecordRTC/) -->
 
-**WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording**
+**Fork of RecordRTC with additional bug fixes** 🙂
 
-[Chrome Extension](https://github.com/muaz-khan/Chrome-Extensions/tree/master/screen-recording) or [Dozens of Simple-Demos](https://www.webrtc-experiment.com/RecordRTC/simple-demos/) and [it is Open-Sourced](https://github.com/muaz-khan/RecordRTC) and has [API documentation](https://recordrtc.org/)
+**Drop in replacement for [RecordRTC](https://github.com/muaz-khan/RecordRTC). Documentation for which can be found here: [https://recordrtc.org/](https://recordrtc.org/)**
 
-[![npm](https://img.shields.io/npm/v/recordrtc.svg)](https://npmjs.org/package/recordrtc) [![downloads](https://img.shields.io/npm/dm/recordrtc.svg)](https://npmjs.org/package/recordrtc) [![Build Status: Linux](https://travis-ci.org/muaz-khan/RecordRTC.png?branch=master)](https://travis-ci.org/muaz-khan/RecordRTC)
+**WebRTC based JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording**
+
+
+<!-- [Chrome Extension](https://github.com/muaz-khan/Chrome-Extensions/tree/master/screen-recording) or [Dozens of Simple-Demos](https://www.webrtc-experiment.com/RecordRTC/simple-demos/) and [it is Open-Sourced](https://github.com/muaz-khan/RecordRTC) and has [API documentation](https://recordrtc.org/) -->
+
+<!-- [![npm](https://img.shields.io/npm/v/recordrtc.svg)](https://npmjs.org/package/recordrtc) [![downloads](https://img.shields.io/npm/dm/recordrtc.svg)](https://npmjs.org/package/recordrtc) [![Build Status: Linux](https://travis-ci.org/muaz-khan/RecordRTC.png?branch=master)](https://travis-ci.org/muaz-khan/RecordRTC) -->
 
 **A demo using promises:**
 
@@ -271,8 +277,6 @@ RecordRTC.prototype = {
 }
 ```
 
-Please check documentation here: [https://recordrtc.org/](https://recordrtc.org/)
-
 ## Global APIs
 
 ```javascript
@@ -307,31 +311,23 @@ DiskStorage = {
 
 ## Wiki
 
-* [https://github.com/muaz-khan/RecordRTC/wiki](https://github.com/muaz-khan/RecordRTC/wiki)
+* [https://github.com/Baldur10/RecordX.git](https://github.com/Baldur10/RecordX.git)
 
 ## Releases
 
-* [https://github.com/muaz-khan/RecordRTC/releases](https://github.com/muaz-khan/RecordRTC/releases)
+* [https://github.com/Baldur10/RecordX/releases](https://github.com/Baldur10/RecordX/releases)
 
-## Unit Tests
+<!-- ## Unit Tests
 
-* [https://travis-ci.org/muaz-khan/RecordRTC](https://travis-ci.org/muaz-khan/RecordRTC)
+* [https://travis-ci.org/muaz-khan/RecordRTC](https://travis-ci.org/muaz-khan/RecordRTC) -->
 
-## Issues/Questions?
+<!-- ## Issues/Questions?
 
 * Github: [https://github.com/muaz-khan/RecordRTC/issues](https://github.com/muaz-khan/RecordRTC/issues)
 * Disqus: [https://www.webrtc-experiment.com/RecordRTC/#ask](https://www.webrtc-experiment.com/RecordRTC/#ask)
 * Stackoverflow: [http://stackoverflow.com/questions/tagged/recordrtc](http://stackoverflow.com/questions/tagged/recordrtc)
-* Email: `muazkh => gmail`
+* Email: `muazkh => gmail` -->
 
-## Credits
-
-| Library     | Usage |
-| ------------- |------------|
-| [Recorderjs](https://github.com/mattdiamond/Recorderjs) | StereoAudioRecorder |
-| [webm-wasm](https://github.com/GoogleChromeLabs/webm-wasm) | WebAssemblyRecorder |
-| [jsGif](https://github.com/antimatter15/jsgif) | GifRecorder |
-| [whammy](https://github.com/antimatter15/whammy) | WhammyRecorder |
 
 ## Spec & Reference
 
@@ -340,15 +336,15 @@ DiskStorage = {
 3. [Canvas2D](http://www.w3.org/html/wg/drafts/2dcontext/html5_canvas/)
 4. [Media Capture and Streams](http://www.w3.org/TR/mediacapture-streams/)
 
-## Who is using RecordRTC?
+<!-- ## Who is using RecordRTC?
 
 | Framework     | Github               | Article            |
 | ------------- |-------------        |-------------     |
 | Angular2      | [github](https://github.com/ShankarSumanth/Angular2-RecordRTC) | [article](https://medium.com/@SumanthShankar/integrate-recordrtc-with-angular-2-typescript-942c9c4ca93f#.7x5yf2nr5) |
 | React.js       | [github](https://github.com/szwang/recordrtc-react) | [article](http://suzannewang.com/recordrtc/) |
 | Video.js      | [github](https://github.com/collab-project/videojs-record) | None |
-| Meteor        | [github](https://github.com/launchbricklabs/recordrtc-meteor-demo) | None |
+| Meteor        | [github](https://github.com/launchbricklabs/recordrtc-meteor-demo) | None | -->
 
 ## License
 
-[RecordRTC.js](https://github.com/muaz-khan/RecordRTC) is released under [MIT license](https://github.com/muaz-khan/RecordRTC/blob/master/LICENSE) . Copyright (c) [Muaz Khan](https://MuazKhan.com).
+This project is released under [MIT license](https://github.com/Baldur10/RecordX/blob/master/LICENSE).
